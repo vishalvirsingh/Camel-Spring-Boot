@@ -1,9 +1,0 @@
-server.port=8081
-#specify input path location to read .csv files
-inputPath=
-#specify output path location
-outputPath=
-#Specify location where files read(.csv) will be kept on successful transaction
-processedPath=
-#Specify location where files read(.csv) will be kept on failed transaction
-errorPath=
